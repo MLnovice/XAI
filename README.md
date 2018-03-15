@@ -1,7 +1,10 @@
-Real-time Financial Data
-:Extract the central bank policy rates and the exchange rates of main countries
-
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
+
+# Real-time Financial Data
+
+### **Description**
+> Extract the central bank policy rates and the exchange rates of main countries
+
 
 # XAI Project 
 
